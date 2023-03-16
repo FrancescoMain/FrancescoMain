@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francescomain&label=Profile%20views&color=0e75b6&style=flat" alt="francescomain" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with **Java for backend**
+- 🤝 I’m looking for help with **React with ts**
 
-- 💬 Ask me about **Vue, Laravel**
+- 💬 Ask me about **Vue, Laravel, Js**
 
 - 📫 How to reach me **cesaranofrancescomain@gmail.com**
 
